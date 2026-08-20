@@ -10,7 +10,7 @@
 🎓 **Education:** Saratov State University (SSU)  
 💻 **Role:** Full-stack developer & Software engineer  
 🧩 **Type:** INTJ | Enneagram 5w4  
-💚 **Psychology:** Generalized PD & Social PD & Obsessive-compulsive PD
+💚 **Psychology:** Social PD & Obsessive-compulsive PD
 
 ---
 
@@ -31,9 +31,11 @@
 * 🕹️ **Geometry Dash:** Pure rhythm and precision — where muscle memory becomes the language and flow is the reward
 * 🔫 **PUBG Mobile:** High-stakes survival where every decision is irreversible and the last circle decides everything
 * 🎬 **Cinema & books:** Detective thrillers, crime fiction, psychological mind games
-* 🏐 **Sport:** Volleyball, table tennis, gym, calisthenics
+* 🏐 **Sport:** Calisthenics, volleyball, table tennis, swimming, skiing
 * ✍️ **Crafts:** Writing, music, card tricks
-* 🌍 **Languages:** 🇬🇧 English — B2 &nbsp;|&nbsp; 🇹🇷 Turkish — A2 (in progress)
+* 🌍 **Languages:** 🇷🇺 Russian — native &nbsp;|&nbsp; 🇬🇧 English — С1 &nbsp;|&nbsp; 🇹🇷 Turkish — B2 &nbsp;|&nbsp; 🇮🇩 Indonesian — beginner
+
+
 
 ---
 
@@ -41,10 +43,11 @@
 
 * 📱 Ship my first applications to Google Play
 * 🏗️ Go deeper into software architecture and system design
-* 📚 Master C, C++, Scala, and Elixir at an advanced level
+* 📚 Master C++, Scala, and Elixir at an advanced level
 * 🚀 Push as many services to production as possible
 * 🌱 Revisit, refine, and extend existing projects
 * 🛠️ Keep building — more, better, deeper
+* 🏛️ Leave a legacy that will live on long after I'm gone
 
 ---
 
@@ -52,11 +55,11 @@
 
 **Operating Systems**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjcuMzI4IDY3LjMzMWg2MC42NjlWMTI4SDY3LjMyOHptLTY3LjMyNSAwaDYwLjY2OVYxMjhILjAwM3pNNjcuMzI4IDBoNjAuNjY5djYwLjY2OUg2Ny4zMjh6TS4wMDMgMGg2MC42Njl2NjAuNjY5SC4wMDN6Ii8+PC9zdmc+)&nbsp;![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)&nbsp;![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=)&nbsp;![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)&nbsp;![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Runtime & Frameworks**
 
@@ -68,11 +71,15 @@
 
 **Data & Automation**
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)&nbsp;![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)&nbsp;![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDQgNzFxLTYgMi05IDVsNy00aDh2LTJ6bS05LTE1LTE1IDR2MWwxMy0zLTEgNHE0LTQgMy02bTEzIDM2Yy0yMiA2LTMzLTE5LTM3LTMyTDkgNDd2LTFsLTIgMiAzIDE0YzMgMTMgMTUgMzggMzYgMzJxNy0yIDExLTctMyA0LTkgNW00LTUxdjJoOHYtMnptMTAgMTNxNiAxIDcgNmw0IDFzMC04LTgtMTBjLTctMi0xMSAzLTEyIDRxMy0yIDktMW0zNCA2Yy03LTItMTEgNC0xMiA0cTMtMiA5LTEgNiAyIDcgNmw0IDFzLTEtOC04LTEwbS00IDIyTDU2IDcybDIgNCAzMCA4em0tMjUgMjFjLTI4LTgtMjQtNDMtMjAtNjBsNS0xNi0yIDItNiAxN2MtNCAxNy04IDUyIDIwIDYwcTIwIDMgMzEtMTAtMTAgMTAtMjggN001MiA4NHYtN2wtMjAgNXMxLTggMTItMTFsOC0xVjQxaDEwbC0zLThxLTItNC03IDItMyA0LTE3IDktMTQgMy0yMCAxLTYtMy02IDJsMiAxM2M0IDEzIDE1IDM4IDM3IDMycTgtMiAxMi04ek0yMCA2MGwxNS00cy0xIDYtNiA4Yy02IDEtOS00LTktNG04OS0xOXEtNyAzLTI1LTEtMTgtNi0yMy0xMnQtOC0ybC02IDE3Yy00IDE3LTggNTIgMjAgNjAgMjggNyA0My0yNSA0Ny00MnE0LTEyIDQtMTggMC01LTktMk01MyA1NXM1LTcgMTItNGM4IDIgOCAxMCA4IDEwem0xOCAzMWMtMTMtNC0xNS0xNC0xNS0xNGwzNiAxMHMtOCA4LTIxIDRtMTMtMjJzNC02IDEyLTRjNyAyIDggMTAgOCAxMHpNNDUgNzlsLTEzIDNzMS04IDExLTExbC04LTI3cS0xNCAzLTIwIDEtNi0zLTYgMmwyIDEzYzQgMTMgMTUgMzggMzcgMzJ6TTIwIDYwbDE1LTRzLTEgNi02IDhjLTYgMS05LTQtOS00bTcyIi8+Cjwvc3ZnPg==)
 
 **Infrastructure & DevOps**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+**Embedded & IoT**
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;![STM32CubeMX](https://img.shields.io/badge/-STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;![Bluetooth](https://img.shields.io/badge/-BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 ---
 
